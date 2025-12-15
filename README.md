@@ -30,7 +30,7 @@ Model Terbaik (best_model.pkl)
         ↓
 API Inference (FastAPI)
         ↓
-Docker Container
+Cloud Deployment
         ↓
 CI/CD (GitHub Actions)
         ↓
@@ -49,9 +49,17 @@ Monitoring & Logging
 ├── src/
 │   └── serving/
 │       └── app.py
-├── Dockerfile
+├── predictions/
+├── train.py
+├── tune.py
+├── predict.py
+├── config.yaml
 ├── requirements.txt
-└── .github/workflows/ci.yml
+├── Dockerfile
+├── README.md
+└── .github/
+    └── workflows/
+        └── ci.yml
 ```
 
 ---
