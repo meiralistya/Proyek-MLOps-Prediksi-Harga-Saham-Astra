@@ -1,9 +1,7 @@
-# 📈 Proyek MLOps: Prediksi Harga Saham Astra (ASII.JK)
+# 📈 Proyek MLOps: Prediksi Harga Saham 
 
-Selamat datang di **Proyek Prediksi Harga Saham Astra (ASII.JK)**.
+Selamat datang di **Proyek Prediksi Harga Saham **.
 Proyek ini bertujuan untuk membangun **pipeline MLOps end-to-end** untuk memprediksi harga saham menggunakan data historis.
-
-🔹 Fokus utama proyek ini adalah **implementasi workflow MLOps**, meliputi deployment, CI/CD, dan monitoring, **bukan kompleksitas model machine learning**.
 
 ---
 
